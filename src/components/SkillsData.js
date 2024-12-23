@@ -56,8 +56,8 @@ const SkillsData = [
   },
   {
     id: "12",
-    name: "Firebase",
-    image: require("../assets/Images/firebase.png"),
+    name: "Material UI",
+    image: require("../assets/Images/mui.png"),
   },
   {
     id: "13",
@@ -88,6 +88,36 @@ const SkillsData = [
     id: "18",
     name: "GitHub",
     image: require("../assets/Images/github.png"),
+  },
+  {
+    id: "19",
+    name: "NPM",
+    image: require("../assets/Images/npm.png"),
+  },
+  {
+    id: "20",
+    name: "Spring Boot",
+    image: require("../assets/Images/springboot.png"),
+  },
+  {
+    id: "21",
+    name: "Java",
+    image: require("../assets/Images/java.png"),
+  },
+  {
+    id: "22",
+    name: "AWS",
+    image: require("../assets/Images/aws.png"),
+  },
+  {
+    id: "23",
+    name: "Docker",
+    image: require("../assets/Images/docker.jpeg"),
+  },
+  {
+    id: "24",
+    name: "Supabase",
+    image: require("../assets/Images/supabase.png"),
   },
 ];
 

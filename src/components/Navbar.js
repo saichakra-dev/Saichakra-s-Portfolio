@@ -54,7 +54,7 @@ const Navbar = () => {
           <img
             className="w-12 h-12 ml-3 cursor-pointer scale-125 lg:scale-150 lg:ml-10"
             src={require("../assets/Images/Name.png")}
-            alt="Vijay"
+            alt="Saichakra"
           />
         </Link>
         <nav

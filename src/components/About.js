@@ -38,17 +38,31 @@ const About = () => {
               data-aos-once="false"
               className="font-medium text-gray-700 text-lg lg:text-base xl:text-xl leading-loose xl:leading-8"
             >
-              A passionate and dedicated web developer with a strong background
-              in creating visually stunning and highly functional websites with
-              2 years of experience in the field. <br />
-              <br /> Throughout my career, I have developed proficiency in
-              various web technologies including HTML5 , CSS3 , JavaScript. I am
-              well-versed in popular libraries such as React and frameworks like
-              Next ,Tailwind allowing me to build robust and responsive
-              websites. <br /> <br /> I'm excited to take on new challenges and
-              contribute to innovative projects. Feel free to connect with me
-              through my social media links.
+              I’m a passionate and dedicated full-stack web developer with over
+              2 years of experience in designing and building dynamic, scalable,
+              and highly functional applications.
+              <br />
+              <br />
+              My technical expertise spans a wide range of modern technologies,
+              including HTML5, CSS3, JavaScript, React, Next.js, and Tailwind
+              CSS for frontend development. On the backend, I excel in Java and
+              Spring Boot, leveraging these tools to create robust APIs,
+              microservices, and secure, performance-oriented applications.
+              <br />
+              <br />
+              With hands-on experience in AWS tools such as EC2, S3, and RDS, I
+              ensure seamless deployment and scalability of web applications. My
+              skill set also includes implementing authentication mechanisms
+              (JWT, OAuth), optimizing database performance (MySQL, MongoDB),
+              and deploying CI/CD pipelines for streamlined development
+              workflows.
+              <br />
+              <br />I am deeply committed to tackling new challenges and
+              contributing to innovative projects that combine technical
+              excellence with user-centric design. Let’s connect and build
+              exceptional solutions together!
             </p>
+
             <div
               data-aos="zoom-in"
               data-aos-duration="1500"
@@ -67,7 +81,7 @@ const About = () => {
                 </Link>
               </button>
               <a
-                href="https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx"
+                href="https://drive.google.com/file/d/10yCzLBcY2o0QD9kfnkgMG-MVKWZSpYT8/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >

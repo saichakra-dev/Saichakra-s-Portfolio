@@ -27,7 +27,8 @@ const Profile = () => {
             data-aos-once="false"
             className="title-font md:text-3xl text-2xl mb-4 text-center font-medium text-white"
           >
-            Hello , I am <span className="text-dark-orange">Vijay Kumar</span>
+            Hello , I am{" "}
+            <span className="text-dark-orange">Saichakra Gunda</span>
           </h2>
           <div
             data-aos="zoom-in-up"
@@ -37,7 +38,14 @@ const Profile = () => {
           >
             &nbsp;
             <Typewriter
-              words={["Web Developer", "Free Lancer", "Enthusiastic Dev"]}
+              words={[
+                "Web Developer",
+                "Free Lancer",
+                "Enthusiastic Dev",
+                "Full-stack Developer",
+                "Tech Enthusiast",
+                "Java Developer",
+              ]}
               loop={false}
               typeSpeed={100}
               deleteSpeed={100}
@@ -50,7 +58,8 @@ const Profile = () => {
             data-aos-once="false"
             className="mb-2 text-white text-lg md:text-xl leading-relaxed"
           >
-            Knack of building web applications using MERN stack.
+            Expert in building end-to-end web applications powered by Java and
+            the MERN stack
           </p>
           <p
             data-aos="zoom-in-up"
@@ -58,7 +67,7 @@ const Profile = () => {
             data-aos-once="false"
             className="text-lg text-white md:text-xl"
           >
-            I enjoy designing tech websites.
+            I enjoy developing Tech Applications.
           </p>
           <div
             data-aos="zoom-in-up"
