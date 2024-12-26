@@ -6,13 +6,14 @@ import SocialHandles from "./SocialHandles";
 
 const Contact = () => {
   const formRef = useRef();
+
   const handleSubmit = (e) => {
     e.preventDefault();
 
     emailjs
       .sendForm(
         process.env.REACT_APP_EMAILJS_SERVICE_ID, // Using service ID from env
-        "template_lg8ahdf", // Replace with your emailJS template ID
+        process.env.REACT_APP_EMAILJS_TEMPLATE_ID, // Using template ID from env
         formRef.current,
         process.env.REACT_APP_EMAILJS_PUBLIC_KEY // Using public key from env
       )
