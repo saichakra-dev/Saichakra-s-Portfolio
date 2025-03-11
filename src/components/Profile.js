@@ -87,7 +87,7 @@ const Profile = () => {
               </Link>
             </button>
             <a
-              href="https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx"
+              href="https://drive.google.com/file/d/1qSUYLN3K4PhFzd9X6BYFbTJ8VLzM9iHJ/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
             >
