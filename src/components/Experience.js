@@ -19,7 +19,6 @@ const Experience = () => {
             Professional Experience
           </p>
         </div>
-
         {/* Freelancer Experience */}
         <div
           data-aos="zoom-in-up"
@@ -69,6 +68,102 @@ const Experience = () => {
           </div>
         </div>
 
+        {/* Freelancer Experience */}
+        <div
+          data-aos="zoom-in-up"
+          data-aos-duration="1500"
+          data-aos-once="false"
+          className="max-w-xl mx-auto p-4 rounded-xl shadow-md bg-slate-100"
+        >
+          <div className="flex flex-col font-medium gap-1 w-full">
+            <h1 className="text-xl md:text-2xl font-semibold">
+              Associate Software Developer
+            </h1>
+            <div className="flex items-center justify-center gap-3 text-lg text-gray-700 md:text-xl">
+              React and Node Js applications
+            </div>
+            <p className="text-base md:text-base text-gray-500">
+              August 2023 - Present
+            </p>
+          </div>
+          <div className="flex w-fit mx-auto">
+            <ul
+              data-aos="zoom-in-up"
+              data-aos-duration="1000"
+              data-aos-once="false"
+              className="pl-3 md:pl-7 list-disc leading-loose max-w-max text-base text-justify md:text-start md:text-lg font-medium"
+            >
+              <li className="py-2 md:py-3">
+                {/* Freelancer Experience */}
+                <div
+                  data-aos="zoom-in-up"
+                  data-aos-duration="1500"
+                  data-aos-once="false"
+                  className="max-w-xl mx-auto p-4 rounded-xl shadow-md bg-slate-100"
+                >
+                  <div className="flex flex-col font-medium gap-1 w-full">
+                    <h1 className="text-xl md:text-2xl font-semibold">
+                      Full Stack Developer - Freelancer
+                    </h1>
+                    <div className="flex items-center justify-center gap-3 text-lg text-gray-700 md:text-xl">
+                      Freelancing Projects
+                    </div>
+                    <p className="text-base md:text-base text-gray-500">
+                      January 2024 - Present
+                    </p>
+                  </div>
+                  <div className="flex w-fit mx-auto">
+                    <ul
+                      data-aos="zoom-in-up"
+                      data-aos-duration="1000"
+                      data-aos-once="false"
+                      className="pl-3 md:pl-7 list-disc leading-loose max-w-max text-base text-justify md:text-start md:text-lg font-medium"
+                    >
+                      <li className="py-2 md:py-3">
+                        Led end-to-end development of web applications,
+                        including creating secure APIs, designing responsive
+                        UIs, and deploying applications using modern cloud
+                        platforms.
+                      </li>
+                      <li className="py-2 md:py-3">
+                        Improved application scalability by transitioning to
+                        microservices architecture, streamlining deployments
+                        with Docker containerization.
+                      </li>
+                      <li className="py-2 md:py-3">
+                        Engineered and maintained high-performance web
+                        applications using Next.js, React, and Node.js, ensuring
+                        seamless user experiences. Boosted frontend performance
+                        by implementing lazy loading, code splitting, and
+                        virtualized rendering, reducing page load times.
+                      </li>
+                      <li className="py-2 md:py-3">
+                        Spearheaded deployment strategies using AWS, Vercel,
+                        Render improving system reliability and reducing
+                        downtime.Strengthened security with a JWT based
+                        Authentication and role-based access control.
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li className="py-2 md:py-3">
+                Spearheaded deployment strategies using AWS, Vercel, Render
+                improving system reliability and reducing downtime.Strengthened
+                security with a JWT based Authentication and role-based access
+                control.
+              </li>
+              <li className="py-2 md:py-3"></li>
+              <li className="py-2 md:py-3">
+                Spearheaded deployment strategies using AWS, Vercel, Render
+                improving system reliability and reducing downtime.Strengthened
+                security with a JWT based Authentication and role-based access
+                control.
+              </li>
+            </ul>
+          </div>
+        </div>
+
         {/* KodNest Experience */}
         <div
           data-aos="zoom-in-up"
@@ -84,7 +179,7 @@ const Experience = () => {
               Full-Time Role
             </div>
             <p className="text-base md:text-base text-gray-500">
-              June 2023 - December 2023
+              Feb 2023 - July 2023
             </p>
           </div>
           <div className="flex w-fit mx-auto">

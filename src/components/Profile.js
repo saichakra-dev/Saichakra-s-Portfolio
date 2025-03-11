@@ -15,7 +15,7 @@ const Profile = () => {
         >
           <img
             className="object-cover object-center bg-[#b9aeb6] border-2 border-white pointer-events-none rounded-full backdrop-contrast-200 backdrop-brightness-200"
-            alt="Vijay"
+            alt="Saichakra"
             src={require("../assets/Images/hero.png")}
           />
         </div>
@@ -87,7 +87,7 @@ const Profile = () => {
               </Link>
             </button>
             <a
-              href="https://drive.google.com/file/d/1KJr7Q_QKFzFAnSPPnabYO7GngUR795zB/view?usp=sharing"
+              href="https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx"
               target="_blank"
               rel="noreferrer"
             >

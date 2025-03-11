@@ -45,17 +45,18 @@ const About = () => {
               <br />
               My technical expertise spans a wide range of modern technologies,
               including HTML5, CSS3, JavaScript, React, Next.js, and Tailwind
-              CSS for frontend development. On the backend, I excel in Java and
-              Spring Boot, leveraging these tools to create robust APIs,
-              microservices, and secure, performance-oriented applications.
+              CSS for frontend development. On the backend, I excel in Java,
+              Node.js, Express.js and Spring Boot, leveraging these tools to
+              create robust APIs, microservices, and secure,
+              performance-oriented applications.
               <br />
               <br />
               With hands-on experience in AWS tools such as EC2, S3, and RDS, I
               ensure seamless deployment and scalability of web applications. My
               skill set also includes implementing authentication mechanisms
-              (JWT, OAuth), optimizing database performance (MySQL, MongoDB),
-              and deploying CI/CD pipelines for streamlined development
-              workflows.
+              (JWT, OAuth), optimizing database performance (MySQL,
+              MongoDB),Docker, Kubernetes and deploying CI/CD pipelines for
+              streamlined development workflows.
               <br />
               <br />I am deeply committed to tackling new challenges and
               contributing to innovative projects that combine technical
@@ -81,7 +82,7 @@ const About = () => {
                 </Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/10yCzLBcY2o0QD9kfnkgMG-MVKWZSpYT8/view?usp=sharing"
+                href={process.env.REACT_APP_RESUME_URL}
                 target="_blank"
                 rel="noreferrer"
               >
